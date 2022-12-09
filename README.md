@@ -85,9 +85,10 @@ Initially, I decided to use a JSON file to contain the structure of the hourly r
 
 Later I created a directory for the storage of the input file and the output file where the list of employees is stored to calculate the salary and the result of each one respectively.
 
-![image-20221208213505907](C:\Users\brahy\AppData\Roaming\Typora\typora-user-images\image-20221208213505907.png)
+and finally, for the logical part, I created 3 sessions to separate the code according to its function, the modules, the controllers, and the main.
 
-and finally for the logical part I decided to create 3 sessions to separate the code according to its function, the modules, the controllers and finally the main.
+# Running
 
+to run the project, just clone it from GitHub https://github.com/brandbedoya98/ioet_test and in the path files/input/employees.txt modify the content to carry out the new test. The output will be reflected in the console and in the path files/output/employees.txt
 
-
+and as a final step in the console, you must execute the command **py .\main.py** to launch the process.
