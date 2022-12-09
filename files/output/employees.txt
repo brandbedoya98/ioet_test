@@ -1,0 +1,6 @@
+The amount to pay ASTRID is: 85 USD
+The amount to pay RENE is: 215 USD
+The amount to pay STEVE is: 260 USD
+The amount to pay DAVID is: 215 USD
+The amount to pay VALERY is: 205 USD
+The amount to pay JUAN is: 215 USD
